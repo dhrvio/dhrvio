@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhrvio
-- 👀 I’m interested in coding dev etc
-- 🌱 I’m currently learning html
+- 👀 I’m interested in game dev etc
+- 🌱 I’m currently learning html, c++
 - 📫 How to reach me - dm me on insta same username
 
 <!---
