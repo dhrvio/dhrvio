@@ -12,7 +12,7 @@ I'm a passionate frontend developer with 2+ years of experience building respons
 - **Frontend:** React.js, Next.js (App & Pages Router), Tailwind CSS, ShadCN UI, Redux
 - **Backend:** Node.js, Express.js, MongoDB (basic usage)
 - **Tools & DevOps:** Git, GitHub, Vercel, AWS (S3, Lambda, EC2), Postman
-- **Testing:** Vitest, Jest
+- **Testing:** Vitest, Jest 
 - **Design:** Figma, Responsive UI Design, Accessibility
 - **Other:** RESTful APIs, JSON, Firebase (basic)
 
