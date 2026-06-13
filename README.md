@@ -2,7 +2,7 @@
 
 ### 🧑‍💻 Frontend Developer | React.js | Next.js | Tailwind CSS | AWS
 
-I'm a passionate frontend developer with 2+ years of experience building responsive, scalable, and user-friendly web applications. I’ve worked on SaaS platforms, dashboards, and e-commerce sites—mostly using **React**, **Next.js**, and **Tailwind CSS**. I enjoy solving problems, debugging tricky UI bugs, and creating clean, maintainable code.
+I'm a passionate frontend developer with 3+ years of experience building responsive, scalable, and user-friendly web applications. I’ve worked on SaaS platforms, dashboards, and e-commerce sites—mostly using **React**, **Next.js**, and **Tailwind CSS**. I enjoy solving problems, debugging tricky UI bugs, and creating clean, maintainable code.
 
 ---
 
